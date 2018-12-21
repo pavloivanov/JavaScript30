@@ -76,3 +76,7 @@
       outline:0;
       border:1px solid rgba(0,0,0,0.1);
     }
+
+    .add-items input[type=button] {
+      margin: 5px 5px 0;
+    }
